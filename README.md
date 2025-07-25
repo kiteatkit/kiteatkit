@@ -1,4 +1,4 @@
-[![...](https://github-readme-stats.vercel.app/api?username=kiteatkit&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![...](https://github-readme-stats.vercel.app/api?username=kiteatkit&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
